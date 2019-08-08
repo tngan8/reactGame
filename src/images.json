@@ -1,0 +1,343 @@
+[
+{
+    "id": 1,
+    "image": "./assets/3.png",
+    "name": "three"
+}, {
+    "id": 2,
+    "image": "./assets/4.png",
+    "name": "four"
+}, {
+    "id": 3,
+    "image": "./assets/8.png",
+    "name": "eight"
+}, {
+    "id": 4,
+    "image": "./assets/11.png",
+    "name": "eleven"
+}, {
+    "id": 5,
+    "image": "./assets/Alph.png",
+    "name": "alph"
+}, {
+    "id": 6,
+    "image": "./assets/Banjo_&_Kazooie.png",
+    "name": "banjo"
+}, {
+    "id": 7,
+    "image": "./assets/bayonetta.png",
+    "name": "bayonetta"
+}, {
+    "id": 8,
+    "image": "./assets/Bowser.png",
+    "name": "bowser"
+}, {
+    "id": 9,
+    "image": "./assets/bowserjr.png",
+    "name": "bowserjr"
+}, {
+    "id": 10,
+    "image": "./assets/captain.png",
+    "name": "captainfalcon"
+}, {
+    "id": 11,
+    "image": "./assets/chrom.png",
+    "name": "chrom"
+}, {
+    "id": 12,
+    "image": "./assets/corrin.png",
+    "name": "corrin"
+},{
+    "id": 13,
+    "image": "./assets/daisy.png",
+    "name": "daisy"
+}, {
+    "id": 14,
+    "image": "./assets/darkpit.png",
+    "name": "darkpit"
+}, {
+    "id": 15,
+    "image": "./assets/darksamus.png",
+    "name": "darksamus"
+}, {
+    "id": 16,
+    "image": "./assets/DiddyKong.png",
+    "name": "diddy"
+}, {
+    "id": 17,
+    "image": "./assets/DK.png",
+    "name": "DK"
+}, {
+    "id": 18,
+    "image": "./assets/drmario.png",
+    "name": "drmario"
+}, {
+    "id": 19,
+    "image": "./assets/duckhunt.png",
+    "name": "duckhunt"
+}, {
+    "id": 20,
+    "image": "./assets/falco.png",
+    "name": "falco"
+}, {
+    "id": 21,
+    "image": "./assets/Game&Watch.png",
+    "name": "g&w"
+}, {
+    "id": 22,
+    "image": "./assets/Ganondorf.png",
+    "name": "ganondorf"
+}, {
+    "id": 23,
+    "image": "./assets/greninja.png",
+    "name": "greninja"
+}, {
+    "id": 24,
+    "image": "./assets/iceclimbers.png",
+    "name": "iceclimbers"
+},{
+    "id": 25,
+    "image": "./assets/iggy.png",
+    "name": "iggy"
+}, {
+    "id": 26,
+    "image": "./assets/ike.png",
+    "name": "ike"
+}, {
+    "id": 27,
+    "image": "./assets/incineroar.png",
+    "name": "incineroar"
+}, {
+    "id": 28,        
+    "image": "./assets/inkling.png",
+    "name": "inkling"
+}, {
+    "id": 29,        
+    "image": "./assets/isabelle.png",
+    "name": "isabelle"
+}, {
+    "id": 30,        
+    "image": "./assets/jigglypuff.png",
+    "name": "jigglypuff"
+}, {
+    "id": 31,        
+    "image": "./assets/Joker.png",
+    "name": "joker"
+}, {
+    "id": 32,        
+    "image": "./assets/ken.png",
+    "name": "ken"
+}, {
+    "id": 33,        
+    "image": "./assets/KingDeDeDe.png",
+    "name": "KingDeDeDe"
+}, {
+    "id": 34,
+    "image": "./assets/Kirby.png",
+    "name": "Kirby"
+}, {
+    "id": 35,
+    "image": "./assets/kkr.png",
+    "name": "kkr"
+}, {
+    "id": 36,
+    "image": "./assets/Larry.png",
+    "name": "Larry"
+},{
+    "id": 37,
+    "image": "./assets/Lemmy.png",
+    "name": "Lemmy"
+}, {
+    "id": 38,
+    "image": "./assets/link.png",
+    "name": "link"
+}, {
+    "id": 39,
+    "image": "./assets/littlemac.png",
+    "name": "littlemac"
+}, {
+    "id": 40,
+    "image": "./assets/lucario.png",
+    "name": "lucario"
+}, {
+    "id": 41,
+    "image": "./assets/lucas.png",
+    "name": "lucas"
+}, {
+    "id": 42,
+    "image": "./assets/lucina.png",
+    "name": "lucina"
+}, {
+    "id": 43,
+    "image": "./assets/Ludwig.png",
+    "name": "Ludwig"
+}, {
+    "id": 44,
+    "image": "./assets/Luigi.png",
+    "name": "Luigi"
+}, {
+    "id": 45,
+    "image": "./assets/Mario.png",
+    "name": "mario"
+}, {
+    "id": 46,
+    "image": "./assets/marth.png",
+    "name": "marth"
+}, {
+    "id": 47,
+    "image": "./assets/megaman.png",
+    "name": "megaman"
+}, {
+    "id": 48,
+    "image": "./assets/metaknight.png",
+    "name": "metaknight"
+},{
+    "id": 49,        
+    "image": "./assets/mewtwo.png",
+    "name": "mewtwo"
+}, {
+    "id": 50,        
+    "image": "./assets/Morton.png",
+    "name": "Morton"
+}, {
+    "id": 51,        
+    "image": "./assets/ness.png",
+    "name": "ness"
+}, {
+    "id": 52,        
+    "image": "./assets/olimar.png",
+    "name": "olimar"
+}, {
+    "id": 53,        
+    "image": "./assets/pacman.png",
+    "name": "pacman"
+}, {
+    "id": 54,        
+    "image": "./assets/palutena.png",
+    "name": "palutena"
+}, {
+    "id": 55,        
+    "image": "./assets/Peach.png",
+    "name": "Peach"
+}, {
+    "id": 56,        
+    "image": "./assets/pichu.png",
+    "name": "pichu"
+}, {
+    "id": 57,        
+    "image": "./assets/pihranaplant.png",
+    "name": "pihranaplant"
+}, {
+    "id": 58,
+    "image": "./assets/pikachu.png",
+    "name": "pikachufalcon"
+}, {
+    "id": 59,
+    "image": "./assets/pit.png",
+    "name": "pit"
+}, {
+    "id": 60,
+    "image": "./assets/pokemon.png",
+    "name": "pokemon"
+},{
+    "id": 61,
+    "image": "./assets/richter.png",
+    "name": "richter"
+}, {
+    "id": 62,
+    "image": "./assets/ridley.png",
+    "name": "ridley"
+}, {
+    "id": 63,
+    "image": "./assets/rob.png",
+    "name": "rob"
+}, {
+    "id": 64,
+    "image": "./assets/robin.png",
+    "name": "robin"
+}, {
+    "id": 65,
+    "image": "./assets/rosalina.png",
+    "name": "rosalina"
+}, {
+    "id": 66,
+    "image": "./assets/roy.png",
+    "name": "roy"
+}, {
+    "id": 67,
+    "image": "./assets/RoyK.png",
+    "name": "RoyK"
+}, {
+    "id": 68,
+    "image": "./assets/ryu.png",
+    "name": "ryu"
+}, {
+    "id": 69,
+    "image": "./assets/Samus.png",
+    "name": "Samus"
+}, {
+    "id": 70,
+    "image": "./assets/sheik.png",
+    "name": "sheik"
+}, {
+    "id": 71,
+    "image": "./assets/shulk.png",
+    "name": "shulk"
+}, {
+    "id": 72,
+    "image": "./assets/simon.png",
+    "name": "simon"
+}, {
+    "id": 73,
+    "image": "./assets/snake.png",
+    "name": "snake"
+}, {
+    "id": 74,
+    "image": "./assets/sonic.png",
+    "name": "sonic"
+},{
+    "id": 75,
+    "image": "./assets/starfox.png",
+    "name": "starfox"
+}, {
+    "id": 76,
+    "image": "./assets/toonlink.png",
+    "name": "toonlink"
+}, {
+    "id": 77,
+    "image": "./assets/villager.png",
+    "name": "villager"
+}, {
+    "id": 78,
+    "image": "./assets/wario.png",
+    "name": "wario"
+}, {
+    "id": 79,
+    "image": "./assets/WendyO.png",
+    "name": "WendyO"
+}, {
+    "id": 80,
+    "image": "./assets/WiiFit.png",
+    "name": "WiiFit"
+}, {
+    "id": 81,
+    "image": "./assets/wolf.png",
+    "name": "wolf"
+}, {
+    "id": 82,
+    "image": "./assets/yoshi.png",
+    "name": "yoshi"
+}, {
+    "id": 83,
+    "image": "./assets/younglink.png",
+    "name": "younglink"
+}, {
+    "id": 84,
+    "image": "./assets/Zelda.png",
+    "name": "Zelda"
+}, {
+    "id": 85,
+    "image": "./assets/ZeroSuit.png",
+    "name": "ZeroSuit"
+}
+]

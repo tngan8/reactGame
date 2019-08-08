@@ -11,3 +11,33 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+
+/* .character-image{
+  height: 50px;
+  width: 50px;
+} */
+.card-image{
+  height: 100px;
+  width: 100px;
+  float: left;
+}
+
+body{
+background: linear-gradient(324deg, #e5ea0c, #0c1aea, #9a0cea, #0cead8, #a0ea0c);
+background-size: 1000% 1000%;
+
+-webkit-animation: AnimationName 30s ease infinite;
+animation: AnimationName 30s ease infinite;
+}
+
+@-webkit-keyframes AnimationName {
+    0%{background-position:0% 4%}
+    50%{background-position:100% 97%}
+    100%{background-position:0% 4%}
+}
+@keyframes AnimationName { 
+    0%{background-position:0% 4%}
+    50%{background-position:100% 97%}
+    100%{background-position:0% 4%}
+}
